@@ -1,7 +1,7 @@
-from .Until.tool import settings, redis_server
-from .DownLoader import DownLoader
-from .Spider import SinaSpider
-from .Until.LogHandler import MyLogHandler
+from Slaver.Until.tool import settings, redis_server
+from Slaver.DownLoader import DownLoader
+from Slaver.Spider import SinaSpider
+from Slaver.Until.LogHandler import MyLogHandler
 import pymysql
 import time
 import threading

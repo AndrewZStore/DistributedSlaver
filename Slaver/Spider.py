@@ -1,4 +1,4 @@
-from .Until.LogHandler import MyLogHandler
+from Slaver.Until.LogHandler import MyLogHandler
 import re
 import threading
 import time
