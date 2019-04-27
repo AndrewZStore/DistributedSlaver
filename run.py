@@ -1,5 +1,5 @@
-from Slaver.Until.tool import settings
-from Slaver.Scheduler import SlaverScheduler
+from .Until.tool import settings
+from .Scheduler import SlaverScheduler
 
 
 s = SlaverScheduler.from_settings(settings)

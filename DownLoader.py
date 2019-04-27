@@ -1,5 +1,5 @@
-from Slaver.Until.LogHandler import MyLogHandler
-from Slaver.Until.tool import settings, redis_server
+from .Until.LogHandler import MyLogHandler
+from .Until.tool import settings, redis_server
 import requests
 import threading
 import time
