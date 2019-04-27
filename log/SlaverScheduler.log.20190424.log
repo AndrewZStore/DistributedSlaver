@@ -1,0 +1,29 @@
+2019-04-24 12:57:41,452 Scheduler.py[line:114] INFO DownLoader: parse list is None
+2019-04-24 12:57:44,457 Scheduler.py[line:114] INFO DownLoader: parse list is None
+2019-04-24 12:58:26,076 Scheduler.py[line:114] INFO DownLoader: parse list is None
+2019-04-24 12:58:29,079 Scheduler.py[line:114] INFO DownLoader: parse list is None
+2019-04-24 13:01:23,196 Scheduler.py[line:114] INFO DownLoader: parse list is None
+2019-04-24 13:01:29,809 Scheduler.py[line:114] INFO DownLoader: parse list is None
+2019-04-24 13:01:32,839 Scheduler.py[line:114] INFO DownLoader: parse list is None
+2019-04-24 13:01:35,847 Scheduler.py[line:114] INFO DownLoader: parse list is None
+2019-04-24 13:01:42,680 Scheduler.py[line:114] INFO DownLoader: parse list is None
+2019-04-24 13:01:45,692 Scheduler.py[line:114] INFO DownLoader: parse list is None
+2019-04-24 13:02:46,706 Scheduler.py[line:114] INFO DownLoader: parse list is None
+2019-04-24 13:02:49,708 Scheduler.py[line:114] INFO DownLoader: parse list is None
+2019-04-24 13:02:53,318 Scheduler.py[line:114] INFO DownLoader: parse list is None
+2019-04-24 14:47:24,671 Scheduler.py[line:114] INFO DownLoader: parse list is None
+2019-04-24 14:47:24,675 Scheduler.py[line:62] INFO DownLoader: can not get request from master request queue
+2019-04-24 14:47:27,673 Scheduler.py[line:114] INFO DownLoader: parse list is None
+2019-04-24 14:47:27,678 Scheduler.py[line:62] INFO DownLoader: can not get request from master request queue
+2019-04-24 14:47:30,673 Scheduler.py[line:114] INFO DownLoader: parse list is None
+2019-04-24 14:47:30,682 Scheduler.py[line:62] INFO DownLoader: can not get request from master request queue
+2019-04-24 14:47:33,711 Scheduler.py[line:62] INFO DownLoader: can not get request from master request queue
+2019-04-24 14:47:33,765 Scheduler.py[line:85] DEBUG (1062, "Duplicate entry '1730336902' for key 'PRIMARY'")
+2019-04-24 14:47:33,812 Scheduler.py[line:114] INFO DownLoader: parse list is None
+2019-04-24 14:47:36,786 Scheduler.py[line:62] INFO DownLoader: can not get request from master request queue
+2019-04-24 14:47:36,812 Scheduler.py[line:114] INFO DownLoader: parse list is None
+2019-04-24 14:47:39,790 Scheduler.py[line:62] INFO DownLoader: can not get request from master request queue
+2019-04-24 14:47:39,814 Scheduler.py[line:114] INFO DownLoader: parse list is None
+2019-04-24 14:47:42,792 Scheduler.py[line:62] INFO DownLoader: can not get request from master request queue
+2019-04-24 14:47:42,914 Scheduler.py[line:114] INFO DownLoader: parse list is None
+2019-04-24 14:47:45,929 Scheduler.py[line:114] INFO DownLoader: parse list is None
