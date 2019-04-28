@@ -333,3 +333,55 @@
 2019-04-27 19:56:18,605 Scheduler.py[line:84] INFO save succeed
 2019-04-27 19:56:18,696 Scheduler.py[line:84] INFO save succeed
 2019-04-27 19:56:18,699 Scheduler.py[line:117] INFO DownLoader: parse list is None
+2019-04-28 10:20:18,772 Scheduler.py[line:117] INFO DownLoader: parse list is None
+2019-04-28 10:20:21,791 Scheduler.py[line:117] INFO DownLoader: parse list is None
+2019-04-28 10:20:24,843 Scheduler.py[line:87] DEBUG (1062, "Duplicate entry '1730336902' for key 'PRIMARY'")
+2019-04-28 10:20:25,000 Scheduler.py[line:84] INFO save succeed
+2019-04-28 10:20:25,098 Scheduler.py[line:84] INFO save succeed
+2019-04-28 10:20:25,214 Scheduler.py[line:84] INFO save succeed
+2019-04-28 10:20:25,219 Scheduler.py[line:117] INFO DownLoader: parse list is None
+2019-04-28 10:20:28,363 Scheduler.py[line:84] INFO save succeed
+2019-04-28 10:20:28,511 Scheduler.py[line:84] INFO save succeed
+2019-04-28 10:20:28,529 Scheduler.py[line:117] INFO DownLoader: parse list is None
+2019-04-28 10:20:31,543 Scheduler.py[line:117] INFO DownLoader: parse list is None
+2019-04-28 10:20:34,726 Scheduler.py[line:117] INFO DownLoader: parse list is None
+2019-04-28 10:20:37,882 Scheduler.py[line:84] INFO save succeed
+2019-04-28 10:20:38,025 Scheduler.py[line:84] INFO save succeed
+2019-04-28 10:20:38,377 Scheduler.py[line:87] DEBUG (1062, "Duplicate entry '1730336902' for key 'PRIMARY'")
+2019-04-28 10:20:38,420 Scheduler.py[line:117] INFO DownLoader: parse list is None
+2019-04-28 10:20:41,498 Scheduler.py[line:84] INFO save succeed
+2019-04-28 10:20:41,500 Scheduler.py[line:117] INFO DownLoader: parse list is None
+2019-04-28 10:20:44,707 Scheduler.py[line:84] INFO save succeed
+2019-04-28 10:20:45,062 Scheduler.py[line:84] INFO save succeed
+2019-04-28 10:20:45,151 Scheduler.py[line:84] INFO save succeed
+2019-04-28 10:20:45,157 Scheduler.py[line:117] INFO DownLoader: parse list is None
+2019-04-28 10:20:48,243 Scheduler.py[line:84] INFO save succeed
+2019-04-28 10:20:48,318 Scheduler.py[line:84] INFO save succeed
+2019-04-28 10:20:48,321 Scheduler.py[line:117] INFO DownLoader: parse list is None
+2019-04-28 10:20:51,491 Scheduler.py[line:84] INFO save succeed
+2019-04-28 10:20:51,563 Scheduler.py[line:84] INFO save succeed
+2019-04-28 10:20:51,624 Scheduler.py[line:84] INFO save succeed
+2019-04-28 10:20:51,626 Scheduler.py[line:117] INFO DownLoader: parse list is None
+2019-04-28 10:20:54,762 Scheduler.py[line:84] INFO save succeed
+2019-04-28 10:20:54,823 Scheduler.py[line:84] INFO save succeed
+2019-04-28 10:20:54,956 Scheduler.py[line:84] INFO save succeed
+2019-04-28 10:20:54,965 Scheduler.py[line:117] INFO DownLoader: parse list is None
+2019-04-28 10:20:58,037 Scheduler.py[line:84] INFO save succeed
+2019-04-28 10:20:58,110 Scheduler.py[line:84] INFO save succeed
+2019-04-28 10:20:58,170 Scheduler.py[line:84] INFO save succeed
+2019-04-28 10:20:58,260 Scheduler.py[line:84] INFO save succeed
+2019-04-28 10:20:58,320 Scheduler.py[line:84] INFO save succeed
+2019-04-28 10:20:58,323 Scheduler.py[line:117] INFO DownLoader: parse list is None
+2019-04-28 10:21:01,523 Scheduler.py[line:84] INFO save succeed
+2019-04-28 10:21:01,694 Scheduler.py[line:87] DEBUG (1406, "Data too long for column 'college' at row 1")
+2019-04-28 10:21:01,701 Scheduler.py[line:117] INFO DownLoader: parse list is None
+2019-04-28 10:21:04,881 Scheduler.py[line:84] INFO save succeed
+2019-04-28 10:21:05,231 Scheduler.py[line:84] INFO save succeed
+2019-04-28 10:21:05,303 Scheduler.py[line:84] INFO save succeed
+2019-04-28 10:21:05,307 Scheduler.py[line:117] INFO DownLoader: parse list is None
+2019-04-28 10:21:08,584 Scheduler.py[line:84] INFO save succeed
+2019-04-28 10:21:08,662 Scheduler.py[line:84] INFO save succeed
+2019-04-28 10:21:08,664 Scheduler.py[line:117] INFO DownLoader: parse list is None
+2019-04-28 10:21:11,822 Scheduler.py[line:84] INFO save succeed
+2019-04-28 10:21:12,249 Scheduler.py[line:84] INFO save succeed
+2019-04-28 10:21:12,259 Scheduler.py[line:117] INFO DownLoader: parse list is None
