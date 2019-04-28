@@ -58,13 +58,13 @@ class SlaverScheduler(object):
             if results:
                 req = str(results[0][0], encoding='utf-8')
                 priority = results[0][1]
-                self.lrs.zadd(self.lrq, priority, req)
+                self.lrs.zadd(self.lrq, {req: priority})
             else:
                 logger.info('DownLoader: can not get request from master request queue')
                 time.sleep(3)
 
     def insert_new_request(self, request, priority=0):
-        self.mrs.zadd(self.nrq, -priority, request)
+        self.mrs.zadd(self.nrq, {request: -priority})
 
     def insert_item(self, item):
         if not isinstance(item, dict):
