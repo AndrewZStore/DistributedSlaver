@@ -1,4 +1,8 @@
-import os
+import sys, os
+
+BASE_DIR = os.path.dirname(os.path.abspath(__file__))
+sys.path.append('../')
+
 import multiprocessing
 import time
 from Slaver.run.run import run
