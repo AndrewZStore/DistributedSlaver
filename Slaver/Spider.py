@@ -45,7 +45,7 @@ class SinaSpider(object):
                     logger.info('Spider: response_list is None')
                     time.sleep(3)
             except Exception as e:
-                print('{"msg": "%s", "function":"single_spider"}', e)
+                print('{"msg": "%s", "function":"single_spider"}' % e)
 
     def parse_manager(self, response, parse_list):
         user_id_pattern = re.compile(r'https://m.weibo.cn/api/container/getIndex')

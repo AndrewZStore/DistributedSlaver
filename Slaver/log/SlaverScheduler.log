@@ -1,387 +1,380 @@
-2019-04-27 19:00:28,655 Scheduler.py[line:115] INFO DownLoader: parse list is None
-2019-04-27 19:00:31,661 Scheduler.py[line:115] INFO DownLoader: parse list is None
-2019-04-27 19:00:34,879 Scheduler.py[line:83] INFO save succeed
-2019-04-27 19:00:35,043 Scheduler.py[line:83] INFO save succeed
-2019-04-27 19:00:35,060 Scheduler.py[line:86] DEBUG (1062, "Duplicate entry '1730336902' for key 'PRIMARY'")
-2019-04-27 19:00:35,212 Scheduler.py[line:83] INFO save succeed
-2019-04-27 19:00:35,216 Scheduler.py[line:115] INFO DownLoader: parse list is None
-2019-04-27 19:00:38,420 Scheduler.py[line:83] INFO save succeed
-2019-04-27 19:00:38,503 Scheduler.py[line:83] INFO save succeed
-2019-04-27 19:00:38,508 Scheduler.py[line:115] INFO DownLoader: parse list is None
-2019-04-27 19:00:41,692 Scheduler.py[line:83] INFO save succeed
-2019-04-27 19:00:41,751 Scheduler.py[line:83] INFO save succeed
-2019-04-27 19:00:41,849 Scheduler.py[line:83] INFO save succeed
-2019-04-27 19:00:41,853 Scheduler.py[line:115] INFO DownLoader: parse list is None
-2019-04-27 19:00:44,932 Scheduler.py[line:83] INFO save succeed
-2019-04-27 19:00:45,006 Scheduler.py[line:83] INFO save succeed
-2019-04-27 19:00:45,008 Scheduler.py[line:115] INFO DownLoader: parse list is None
-2019-04-27 19:00:48,171 Scheduler.py[line:83] INFO save succeed
-2019-04-27 19:00:48,239 Scheduler.py[line:83] INFO save succeed
-2019-04-27 19:00:48,241 Scheduler.py[line:115] INFO DownLoader: parse list is None
-2019-04-27 19:02:35,110 Scheduler.py[line:115] INFO DownLoader: parse list is None
-2019-04-27 19:02:38,112 Scheduler.py[line:115] INFO DownLoader: parse list is None
-2019-04-27 19:02:41,187 Scheduler.py[line:86] DEBUG (1062, "Duplicate entry '1730336902' for key 'PRIMARY'")
-2019-04-27 19:02:41,324 Scheduler.py[line:83] INFO save succeed
-2019-04-27 19:02:41,467 Scheduler.py[line:83] INFO save succeed
-2019-04-27 19:02:41,623 Scheduler.py[line:83] INFO save succeed
-2019-04-27 19:02:41,627 Scheduler.py[line:115] INFO DownLoader: parse list is None
-2019-04-27 19:02:44,724 Scheduler.py[line:83] INFO save succeed
-2019-04-27 19:02:45,170 Scheduler.py[line:83] INFO save succeed
-2019-04-27 19:02:45,276 Scheduler.py[line:83] INFO save succeed
-2019-04-27 19:02:45,279 Scheduler.py[line:115] INFO DownLoader: parse list is None
-2019-04-27 19:02:48,377 Scheduler.py[line:83] INFO save succeed
-2019-04-27 19:02:48,479 Scheduler.py[line:83] INFO save succeed
-2019-04-27 19:02:48,501 Scheduler.py[line:115] INFO DownLoader: parse list is None
-2019-04-27 19:02:51,669 Scheduler.py[line:83] INFO save succeed
-2019-04-27 19:02:51,928 Scheduler.py[line:83] INFO save succeed
-2019-04-27 19:02:52,057 Scheduler.py[line:83] INFO save succeed
-2019-04-27 19:09:45,869 Scheduler.py[line:115] INFO DownLoader: parse list is None
-2019-04-27 19:09:48,871 Scheduler.py[line:115] INFO DownLoader: parse list is None
-2019-04-27 19:09:51,886 Scheduler.py[line:115] INFO DownLoader: parse list is None
-2019-04-27 19:09:54,928 Scheduler.py[line:115] INFO DownLoader: parse list is None
-2019-04-27 19:09:58,060 Scheduler.py[line:83] INFO save succeed
-2019-04-27 19:09:58,095 Scheduler.py[line:86] DEBUG (1406, "Data too long for column 'intro' at row 1")
-2019-04-27 19:09:58,113 Scheduler.py[line:115] INFO DownLoader: parse list is None
-2019-04-27 19:10:01,202 Scheduler.py[line:83] INFO save succeed
-2019-04-27 19:10:01,276 Scheduler.py[line:83] INFO save succeed
-2019-04-27 19:10:01,281 Scheduler.py[line:115] INFO DownLoader: parse list is None
-2019-04-27 19:10:04,438 Scheduler.py[line:83] INFO save succeed
-2019-04-27 19:10:04,969 Scheduler.py[line:83] INFO save succeed
-2019-04-27 19:10:04,975 Scheduler.py[line:115] INFO DownLoader: parse list is None
-2019-04-27 19:10:08,055 Scheduler.py[line:83] INFO save succeed
-2019-04-27 19:10:08,128 Scheduler.py[line:83] INFO save succeed
-2019-04-27 19:10:08,188 Scheduler.py[line:83] INFO save succeed
-2019-04-27 19:10:08,194 Scheduler.py[line:115] INFO DownLoader: parse list is None
-2019-04-27 19:10:11,412 Scheduler.py[line:83] INFO save succeed
-2019-04-27 19:10:11,484 Scheduler.py[line:83] INFO save succeed
-2019-04-27 19:10:11,489 Scheduler.py[line:115] INFO DownLoader: parse list is None
-2019-04-27 19:10:14,507 Scheduler.py[line:115] INFO DownLoader: parse list is None
-2019-04-27 19:10:17,531 Scheduler.py[line:115] INFO DownLoader: parse list is None
-2019-04-27 19:10:20,536 Scheduler.py[line:115] INFO DownLoader: parse list is None
-2019-04-27 19:10:23,547 Scheduler.py[line:115] INFO DownLoader: parse list is None
-2019-04-27 19:10:26,559 Scheduler.py[line:115] INFO DownLoader: parse list is None
-2019-04-27 19:10:29,565 Scheduler.py[line:115] INFO DownLoader: parse list is None
-2019-04-27 19:13:09,120 Scheduler.py[line:115] INFO DownLoader: parse list is None
-2019-04-27 19:13:12,122 Scheduler.py[line:115] INFO DownLoader: parse list is None
-2019-04-27 19:13:15,280 Scheduler.py[line:83] INFO save succeed
-2019-04-27 19:13:15,383 Scheduler.py[line:83] INFO save succeed
-2019-04-27 19:13:15,556 Scheduler.py[line:83] INFO save succeed
-2019-04-27 19:13:15,854 Scheduler.py[line:83] INFO save succeed
-2019-04-27 19:13:15,858 Scheduler.py[line:115] INFO DownLoader: parse list is None
-2019-04-27 19:13:19,045 Scheduler.py[line:83] INFO save succeed
-2019-04-27 19:13:19,497 Scheduler.py[line:83] INFO save succeed
-2019-04-27 19:13:19,504 Scheduler.py[line:115] INFO DownLoader: parse list is None
-2019-04-27 19:13:22,608 Scheduler.py[line:83] INFO save succeed
-2019-04-27 19:13:22,681 Scheduler.py[line:83] INFO save succeed
-2019-04-27 19:13:22,741 Scheduler.py[line:83] INFO save succeed
-2019-04-27 19:13:22,748 Scheduler.py[line:115] INFO DownLoader: parse list is None
-2019-04-27 19:13:26,029 Scheduler.py[line:83] INFO save succeed
-2019-04-27 19:15:49,690 Scheduler.py[line:115] INFO DownLoader: parse list is None
-2019-04-27 19:15:52,698 Scheduler.py[line:115] INFO DownLoader: parse list is None
-2019-04-27 19:15:55,937 Scheduler.py[line:83] INFO save succeed
-2019-04-27 19:17:02,446 Scheduler.py[line:115] INFO DownLoader: parse list is None
-2019-04-27 19:17:05,454 Scheduler.py[line:115] INFO DownLoader: parse list is None
-2019-04-27 19:17:08,538 Scheduler.py[line:86] DEBUG (1406, "Data too long for column 'intro' at row 1")
-2019-04-27 19:22:17,978 Scheduler.py[line:115] INFO DownLoader: parse list is None
-2019-04-27 19:22:20,980 Scheduler.py[line:115] INFO DownLoader: parse list is None
-2019-04-27 19:22:24,163 Scheduler.py[line:83] INFO save succeed
-2019-04-27 19:22:24,253 Scheduler.py[line:83] INFO save succeed
-2019-04-27 19:22:24,266 Scheduler.py[line:86] DEBUG (1062, "Duplicate entry '1730336902' for key 'PRIMARY'")
-2019-04-27 19:22:24,385 Scheduler.py[line:83] INFO save succeed
-2019-04-27 19:22:24,593 Scheduler.py[line:115] INFO DownLoader: parse list is None
-2019-04-27 19:22:27,724 Scheduler.py[line:83] INFO save succeed
-2019-04-27 19:22:27,795 Scheduler.py[line:83] INFO save succeed
-2019-04-27 19:22:27,863 Scheduler.py[line:83] INFO save succeed
-2019-04-27 19:22:27,865 Scheduler.py[line:115] INFO DownLoader: parse list is None
-2019-04-27 19:22:31,137 Scheduler.py[line:83] INFO save succeed
-2019-04-27 19:22:31,221 Scheduler.py[line:83] INFO save succeed
-2019-04-27 19:22:31,287 Scheduler.py[line:83] INFO save succeed
-2019-04-27 19:22:31,293 Scheduler.py[line:115] INFO DownLoader: parse list is None
-2019-04-27 19:22:34,425 Scheduler.py[line:83] INFO save succeed
-2019-04-27 19:22:34,484 Scheduler.py[line:83] INFO save succeed
-2019-04-27 19:22:34,487 Scheduler.py[line:115] INFO DownLoader: parse list is None
-2019-04-27 19:22:37,567 Scheduler.py[line:83] INFO save succeed
-2019-04-27 19:22:37,694 Scheduler.py[line:83] INFO save succeed
-2019-04-27 19:22:37,949 Scheduler.py[line:83] INFO save succeed
-2019-04-27 19:22:37,970 Scheduler.py[line:115] INFO DownLoader: parse list is None
-2019-04-27 19:22:41,138 Scheduler.py[line:83] INFO save succeed
-2019-04-27 19:22:41,264 Scheduler.py[line:83] INFO save succeed
-2019-04-27 19:22:41,563 Scheduler.py[line:83] INFO save succeed
-2019-04-27 19:22:41,566 Scheduler.py[line:115] INFO DownLoader: parse list is None
-2019-04-27 19:22:44,744 Scheduler.py[line:83] INFO save succeed
-2019-04-27 19:30:41,307 Scheduler.py[line:115] INFO DownLoader: parse list is None
-2019-04-27 19:30:44,310 Scheduler.py[line:115] INFO DownLoader: parse list is None
-2019-04-27 19:30:47,423 Scheduler.py[line:83] INFO save succeed
-2019-04-27 19:30:47,494 Scheduler.py[line:86] DEBUG (1062, "Duplicate entry '1730336902' for key 'PRIMARY'")
-2019-04-27 19:30:47,943 Scheduler.py[line:83] INFO save succeed
-2019-04-27 19:30:48,017 Scheduler.py[line:83] INFO save succeed
-2019-04-27 19:30:48,018 Scheduler.py[line:115] INFO DownLoader: parse list is None
-2019-04-27 19:30:51,198 Scheduler.py[line:83] INFO save succeed
-2019-04-27 19:30:51,314 Scheduler.py[line:83] INFO save succeed
-2019-04-27 19:30:51,390 Scheduler.py[line:83] INFO save succeed
-2019-04-27 19:30:51,392 Scheduler.py[line:115] INFO DownLoader: parse list is None
-2019-04-27 19:30:54,622 Scheduler.py[line:83] INFO save succeed
-2019-04-27 19:30:54,695 Scheduler.py[line:83] INFO save succeed
-2019-04-27 19:30:54,876 Scheduler.py[line:83] INFO save succeed
-2019-04-27 19:30:54,884 Scheduler.py[line:115] INFO DownLoader: parse list is None
-2019-04-27 19:30:58,068 Scheduler.py[line:83] INFO save succeed
-2019-04-27 19:30:58,186 Scheduler.py[line:83] INFO save succeed
-2019-04-27 19:30:58,188 Scheduler.py[line:115] INFO DownLoader: parse list is None
-2019-04-27 19:31:01,260 Scheduler.py[line:83] INFO save succeed
-2019-04-27 19:31:01,345 Scheduler.py[line:83] INFO save succeed
-2019-04-27 19:31:01,435 Scheduler.py[line:83] INFO save succeed
-2019-04-27 19:31:01,436 Scheduler.py[line:115] INFO DownLoader: parse list is None
-2019-04-27 19:31:04,612 Scheduler.py[line:83] INFO save succeed
-2019-04-27 19:31:04,809 Scheduler.py[line:83] INFO save succeed
-2019-04-27 19:31:04,971 Scheduler.py[line:83] INFO save succeed
-2019-04-27 19:31:04,979 Scheduler.py[line:115] INFO DownLoader: parse list is None
-2019-04-27 19:31:08,063 Scheduler.py[line:83] INFO save succeed
-2019-04-27 19:31:08,064 Scheduler.py[line:115] INFO DownLoader: parse list is None
-2019-04-27 19:31:11,217 Scheduler.py[line:83] INFO save succeed
-2019-04-27 19:31:11,295 Scheduler.py[line:83] INFO save succeed
-2019-04-27 19:31:11,297 Scheduler.py[line:115] INFO DownLoader: parse list is None
-2019-04-27 19:31:14,659 Scheduler.py[line:83] INFO save succeed
-2019-04-27 19:31:14,733 Scheduler.py[line:83] INFO save succeed
-2019-04-27 19:31:14,792 Scheduler.py[line:83] INFO save succeed
-2019-04-27 19:31:14,797 Scheduler.py[line:115] INFO DownLoader: parse list is None
-2019-04-27 19:31:18,023 Scheduler.py[line:83] INFO save succeed
-2019-04-27 19:31:18,082 Scheduler.py[line:83] INFO save succeed
-2019-04-27 19:31:18,155 Scheduler.py[line:83] INFO save succeed
-2019-04-27 19:31:18,158 Scheduler.py[line:115] INFO DownLoader: parse list is None
-2019-04-27 19:31:21,264 Scheduler.py[line:83] INFO save succeed
-2019-04-27 19:31:21,336 Scheduler.py[line:83] INFO save succeed
-2019-04-27 19:31:21,396 Scheduler.py[line:83] INFO save succeed
-2019-04-27 19:31:21,404 Scheduler.py[line:115] INFO DownLoader: parse list is None
-2019-04-27 19:31:24,633 Scheduler.py[line:83] INFO save succeed
-2019-04-27 19:31:24,701 Scheduler.py[line:83] INFO save succeed
-2019-04-27 19:31:24,703 Scheduler.py[line:115] INFO DownLoader: parse list is None
-2019-04-27 19:31:27,714 Scheduler.py[line:115] INFO DownLoader: parse list is None
-2019-04-27 19:31:30,738 Scheduler.py[line:115] INFO DownLoader: parse list is None
-2019-04-27 19:31:33,739 Scheduler.py[line:115] INFO DownLoader: parse list is None
-2019-04-27 19:31:36,909 Scheduler.py[line:83] INFO save succeed
-2019-04-27 19:31:37,243 Scheduler.py[line:115] INFO DownLoader: parse list is None
-2019-04-27 19:31:40,379 Scheduler.py[line:83] INFO save succeed
-2019-04-27 19:31:40,792 Scheduler.py[line:83] INFO save succeed
-2019-04-27 19:31:40,852 Scheduler.py[line:83] INFO save succeed
-2019-04-27 19:31:40,885 Scheduler.py[line:115] INFO DownLoader: parse list is None
-2019-04-27 19:31:44,108 Scheduler.py[line:83] INFO save succeed
-2019-04-27 19:31:44,221 Scheduler.py[line:83] INFO save succeed
-2019-04-27 19:31:44,580 Scheduler.py[line:83] INFO save succeed
-2019-04-27 19:31:44,640 Scheduler.py[line:83] INFO save succeed
-2019-04-27 19:31:44,724 Scheduler.py[line:83] INFO save succeed
-2019-04-27 19:31:44,725 Scheduler.py[line:115] INFO DownLoader: parse list is None
-2019-04-27 19:31:47,806 Scheduler.py[line:83] INFO save succeed
-2019-04-27 19:31:47,960 Scheduler.py[line:83] INFO save succeed
-2019-04-27 19:31:48,049 Scheduler.py[line:83] INFO save succeed
-2019-04-27 19:31:48,083 Scheduler.py[line:115] INFO DownLoader: parse list is None
-2019-04-27 19:31:51,261 Scheduler.py[line:83] INFO save succeed
-2019-04-27 19:31:51,367 Scheduler.py[line:83] INFO save succeed
-2019-04-27 19:31:51,423 Scheduler.py[line:115] INFO DownLoader: parse list is None
-2019-04-27 19:31:54,509 Scheduler.py[line:83] INFO save succeed
-2019-04-27 19:31:54,598 Scheduler.py[line:83] INFO save succeed
-2019-04-27 19:31:54,599 Scheduler.py[line:115] INFO DownLoader: parse list is None
-2019-04-27 19:31:57,716 Scheduler.py[line:83] INFO save succeed
-2019-04-27 19:31:57,806 Scheduler.py[line:83] INFO save succeed
-2019-04-27 19:31:57,882 Scheduler.py[line:83] INFO save succeed
-2019-04-27 19:31:57,907 Scheduler.py[line:115] INFO DownLoader: parse list is None
-2019-04-27 19:32:00,964 Scheduler.py[line:83] INFO save succeed
-2019-04-27 19:32:01,045 Scheduler.py[line:83] INFO save succeed
-2019-04-27 19:32:01,339 Scheduler.py[line:83] INFO save succeed
-2019-04-27 19:32:01,348 Scheduler.py[line:115] INFO DownLoader: parse list is None
-2019-04-27 19:32:04,356 Scheduler.py[line:86] DEBUG (1406, "Data too long for column 'intro' at row 1")
-2019-04-27 19:32:04,461 Scheduler.py[line:83] INFO save succeed
-2019-04-27 19:32:04,486 Scheduler.py[line:115] INFO DownLoader: parse list is None
-2019-04-27 19:32:07,644 Scheduler.py[line:83] INFO save succeed
-2019-04-27 19:32:07,781 Scheduler.py[line:83] INFO save succeed
-2019-04-27 19:32:07,785 Scheduler.py[line:115] INFO DownLoader: parse list is None
-2019-04-27 19:32:10,857 Scheduler.py[line:83] INFO save succeed
-2019-04-27 19:32:10,868 Scheduler.py[line:86] DEBUG (1406, "Data too long for column 'intro' at row 1")
-2019-04-27 19:32:10,869 Scheduler.py[line:115] INFO DownLoader: parse list is None
-2019-04-27 19:32:14,091 Scheduler.py[line:83] INFO save succeed
-2019-04-27 19:32:14,179 Scheduler.py[line:115] INFO DownLoader: parse list is None
-2019-04-27 19:32:17,261 Scheduler.py[line:83] INFO save succeed
-2019-04-27 19:32:17,685 Scheduler.py[line:83] INFO save succeed
-2019-04-27 19:32:17,794 Scheduler.py[line:83] INFO save succeed
-2019-04-27 19:32:17,821 Scheduler.py[line:86] DEBUG (1406, "Data too long for column 'intro' at row 1")
-2019-04-27 19:54:08,806 Scheduler.py[line:117] INFO DownLoader: parse list is None
-2019-04-27 19:54:11,809 Scheduler.py[line:117] INFO DownLoader: parse list is None
-2019-04-27 19:54:14,859 Scheduler.py[line:87] DEBUG (1062, "Duplicate entry '1730336902' for key 'PRIMARY'")
-2019-04-27 19:54:14,901 Scheduler.py[line:117] INFO DownLoader: parse list is None
-2019-04-27 19:54:17,914 Scheduler.py[line:117] INFO DownLoader: parse list is None
-2019-04-27 19:54:21,099 Scheduler.py[line:84] INFO save succeed
-2019-04-27 19:54:21,267 Scheduler.py[line:84] INFO save succeed
-2019-04-27 19:54:21,271 Scheduler.py[line:117] INFO DownLoader: parse list is None
-2019-04-27 19:54:24,340 Scheduler.py[line:84] INFO save succeed
-2019-04-27 19:54:24,421 Scheduler.py[line:84] INFO save succeed
-2019-04-27 19:54:24,423 Scheduler.py[line:117] INFO DownLoader: parse list is None
-2019-04-27 19:54:27,489 Scheduler.py[line:84] INFO save succeed
-2019-04-27 19:54:27,594 Scheduler.py[line:84] INFO save succeed
-2019-04-27 19:54:27,596 Scheduler.py[line:117] INFO DownLoader: parse list is None
-2019-04-27 19:54:30,765 Scheduler.py[line:84] INFO save succeed
-2019-04-27 19:54:30,997 Scheduler.py[line:84] INFO save succeed
-2019-04-27 19:54:31,093 Scheduler.py[line:84] INFO save succeed
-2019-04-27 19:54:31,095 Scheduler.py[line:117] INFO DownLoader: parse list is None
-2019-04-27 19:54:34,222 Scheduler.py[line:84] INFO save succeed
-2019-04-27 19:54:34,396 Scheduler.py[line:84] INFO save succeed
-2019-04-27 19:54:34,399 Scheduler.py[line:117] INFO DownLoader: parse list is None
-2019-04-27 19:54:37,556 Scheduler.py[line:84] INFO save succeed
-2019-04-27 19:54:37,715 Scheduler.py[line:84] INFO save succeed
-2019-04-27 19:54:37,717 Scheduler.py[line:117] INFO DownLoader: parse list is None
-2019-04-27 19:54:41,021 Scheduler.py[line:84] INFO save succeed
-2019-04-27 19:54:41,094 Scheduler.py[line:84] INFO save succeed
-2019-04-27 19:54:41,154 Scheduler.py[line:84] INFO save succeed
-2019-04-27 19:54:41,157 Scheduler.py[line:117] INFO DownLoader: parse list is None
-2019-04-27 19:54:44,336 Scheduler.py[line:84] INFO save succeed
-2019-04-27 19:54:44,417 Scheduler.py[line:84] INFO save succeed
-2019-04-27 19:54:44,421 Scheduler.py[line:117] INFO DownLoader: parse list is None
-2019-04-27 19:54:47,607 Scheduler.py[line:84] INFO save succeed
-2019-04-27 19:54:47,748 Scheduler.py[line:84] INFO save succeed
-2019-04-27 19:54:47,817 Scheduler.py[line:84] INFO save succeed
-2019-04-27 19:54:47,824 Scheduler.py[line:117] INFO DownLoader: parse list is None
-2019-04-27 19:54:50,898 Scheduler.py[line:84] INFO save succeed
-2019-04-27 19:54:50,980 Scheduler.py[line:84] INFO save succeed
-2019-04-27 19:54:51,054 Scheduler.py[line:84] INFO save succeed
-2019-04-27 19:54:51,114 Scheduler.py[line:84] INFO save succeed
-2019-04-27 19:54:51,187 Scheduler.py[line:84] INFO save succeed
-2019-04-27 19:54:51,191 Scheduler.py[line:117] INFO DownLoader: parse list is None
-2019-04-27 19:54:54,396 Scheduler.py[line:84] INFO save succeed
-2019-04-27 19:54:54,510 Scheduler.py[line:84] INFO save succeed
-2019-04-27 19:54:54,512 Scheduler.py[line:117] INFO DownLoader: parse list is None
-2019-04-27 19:54:57,586 Scheduler.py[line:84] INFO save succeed
-2019-04-27 19:54:57,658 Scheduler.py[line:84] INFO save succeed
-2019-04-27 19:54:57,661 Scheduler.py[line:117] INFO DownLoader: parse list is None
-2019-04-27 19:55:00,885 Scheduler.py[line:84] INFO save succeed
-2019-04-27 19:55:01,092 Scheduler.py[line:84] INFO save succeed
-2019-04-27 19:55:01,165 Scheduler.py[line:84] INFO save succeed
-2019-04-27 19:55:01,168 Scheduler.py[line:117] INFO DownLoader: parse list is None
-2019-04-27 19:55:04,234 Scheduler.py[line:84] INFO save succeed
-2019-04-27 19:55:04,358 Scheduler.py[line:84] INFO save succeed
-2019-04-27 19:55:04,540 Scheduler.py[line:117] INFO DownLoader: parse list is None
-2019-04-27 19:55:07,713 Scheduler.py[line:84] INFO save succeed
-2019-04-27 19:55:07,796 Scheduler.py[line:84] INFO save succeed
-2019-04-27 19:55:07,996 Scheduler.py[line:117] INFO DownLoader: parse list is None
-2019-04-27 19:55:11,207 Scheduler.py[line:84] INFO save succeed
-2019-04-27 19:55:11,341 Scheduler.py[line:84] INFO save succeed
-2019-04-27 19:55:11,347 Scheduler.py[line:117] INFO DownLoader: parse list is None
-2019-04-27 19:55:14,506 Scheduler.py[line:84] INFO save succeed
-2019-04-27 19:55:14,566 Scheduler.py[line:84] INFO save succeed
-2019-04-27 19:55:14,652 Scheduler.py[line:84] INFO save succeed
-2019-04-27 19:55:14,822 Scheduler.py[line:117] INFO DownLoader: parse list is None
-2019-04-27 19:55:17,997 Scheduler.py[line:84] INFO save succeed
-2019-04-27 19:55:18,270 Scheduler.py[line:84] INFO save succeed
-2019-04-27 19:55:18,344 Scheduler.py[line:84] INFO save succeed
-2019-04-27 19:55:18,459 Scheduler.py[line:84] INFO save succeed
-2019-04-27 19:55:18,462 Scheduler.py[line:117] INFO DownLoader: parse list is None
-2019-04-27 19:55:21,670 Scheduler.py[line:84] INFO save succeed
-2019-04-27 19:55:21,889 Scheduler.py[line:84] INFO save succeed
-2019-04-27 19:55:22,126 Scheduler.py[line:84] INFO save succeed
-2019-04-27 19:55:22,129 Scheduler.py[line:117] INFO DownLoader: parse list is None
-2019-04-27 19:55:25,291 Scheduler.py[line:84] INFO save succeed
-2019-04-27 19:55:25,371 Scheduler.py[line:84] INFO save succeed
-2019-04-27 19:55:25,373 Scheduler.py[line:117] INFO DownLoader: parse list is None
-2019-04-27 19:55:28,571 Scheduler.py[line:84] INFO save succeed
-2019-04-27 19:55:28,680 Scheduler.py[line:84] INFO save succeed
-2019-04-27 19:55:28,683 Scheduler.py[line:117] INFO DownLoader: parse list is None
-2019-04-27 19:55:31,762 Scheduler.py[line:84] INFO save succeed
-2019-04-27 19:55:31,843 Scheduler.py[line:84] INFO save succeed
-2019-04-27 19:55:31,903 Scheduler.py[line:84] INFO save succeed
-2019-04-27 19:55:31,907 Scheduler.py[line:117] INFO DownLoader: parse list is None
-2019-04-27 19:55:35,002 Scheduler.py[line:84] INFO save succeed
-2019-04-27 19:55:35,083 Scheduler.py[line:84] INFO save succeed
-2019-04-27 19:55:35,088 Scheduler.py[line:117] INFO DownLoader: parse list is None
-2019-04-27 19:55:38,240 Scheduler.py[line:84] INFO save succeed
-2019-04-27 19:55:38,242 Scheduler.py[line:117] INFO DownLoader: parse list is None
-2019-04-27 19:55:41,412 Scheduler.py[line:84] INFO save succeed
-2019-04-27 19:55:41,473 Scheduler.py[line:84] INFO save succeed
-2019-04-27 19:55:41,477 Scheduler.py[line:117] INFO DownLoader: parse list is None
-2019-04-27 19:55:44,705 Scheduler.py[line:84] INFO save succeed
-2019-04-27 19:55:44,786 Scheduler.py[line:84] INFO save succeed
-2019-04-27 19:55:44,795 Scheduler.py[line:117] INFO DownLoader: parse list is None
-2019-04-27 19:55:47,925 Scheduler.py[line:84] INFO save succeed
-2019-04-27 19:55:47,986 Scheduler.py[line:84] INFO save succeed
-2019-04-27 19:55:47,988 Scheduler.py[line:117] INFO DownLoader: parse list is None
-2019-04-27 19:55:51,160 Scheduler.py[line:84] INFO save succeed
-2019-04-27 19:55:51,593 Scheduler.py[line:84] INFO save succeed
-2019-04-27 19:55:51,707 Scheduler.py[line:84] INFO save succeed
-2019-04-27 19:55:51,830 Scheduler.py[line:84] INFO save succeed
-2019-04-27 19:55:51,844 Scheduler.py[line:87] DEBUG (1406, "Data too long for column 'college' at row 1")
-2019-04-27 19:55:51,847 Scheduler.py[line:117] INFO DownLoader: parse list is None
-2019-04-27 19:55:54,998 Scheduler.py[line:84] INFO save succeed
-2019-04-27 19:55:55,070 Scheduler.py[line:84] INFO save succeed
-2019-04-27 19:55:55,073 Scheduler.py[line:117] INFO DownLoader: parse list is None
-2019-04-27 19:55:58,251 Scheduler.py[line:84] INFO save succeed
-2019-04-27 19:55:58,312 Scheduler.py[line:84] INFO save succeed
-2019-04-27 19:55:58,315 Scheduler.py[line:117] INFO DownLoader: parse list is None
-2019-04-27 19:56:01,369 Scheduler.py[line:84] INFO save succeed
-2019-04-27 19:56:01,493 Scheduler.py[line:84] INFO save succeed
-2019-04-27 19:56:01,824 Scheduler.py[line:84] INFO save succeed
-2019-04-27 19:56:01,829 Scheduler.py[line:117] INFO DownLoader: parse list is None
-2019-04-27 19:56:05,099 Scheduler.py[line:84] INFO save succeed
-2019-04-27 19:56:05,171 Scheduler.py[line:84] INFO save succeed
-2019-04-27 19:56:05,174 Scheduler.py[line:117] INFO DownLoader: parse list is None
-2019-04-27 19:56:08,237 Scheduler.py[line:84] INFO save succeed
-2019-04-27 19:56:08,297 Scheduler.py[line:84] INFO save succeed
-2019-04-27 19:56:08,379 Scheduler.py[line:84] INFO save succeed
-2019-04-27 19:56:08,593 Scheduler.py[line:117] INFO DownLoader: parse list is None
-2019-04-27 19:56:11,793 Scheduler.py[line:84] INFO save succeed
-2019-04-27 19:56:11,861 Scheduler.py[line:84] INFO save succeed
-2019-04-27 19:56:11,865 Scheduler.py[line:117] INFO DownLoader: parse list is None
-2019-04-27 19:56:14,873 Scheduler.py[line:87] DEBUG (1406, "Data too long for column 'college' at row 1")
-2019-04-27 19:56:15,041 Scheduler.py[line:84] INFO save succeed
-2019-04-27 19:56:15,043 Scheduler.py[line:117] INFO DownLoader: parse list is None
-2019-04-27 19:56:18,236 Scheduler.py[line:84] INFO save succeed
-2019-04-27 19:56:18,605 Scheduler.py[line:84] INFO save succeed
-2019-04-27 19:56:18,696 Scheduler.py[line:84] INFO save succeed
-2019-04-27 19:56:18,699 Scheduler.py[line:117] INFO DownLoader: parse list is None
-2019-04-28 10:20:18,772 Scheduler.py[line:117] INFO DownLoader: parse list is None
-2019-04-28 10:20:21,791 Scheduler.py[line:117] INFO DownLoader: parse list is None
-2019-04-28 10:20:24,843 Scheduler.py[line:87] DEBUG (1062, "Duplicate entry '1730336902' for key 'PRIMARY'")
-2019-04-28 10:20:25,000 Scheduler.py[line:84] INFO save succeed
-2019-04-28 10:20:25,098 Scheduler.py[line:84] INFO save succeed
-2019-04-28 10:20:25,214 Scheduler.py[line:84] INFO save succeed
-2019-04-28 10:20:25,219 Scheduler.py[line:117] INFO DownLoader: parse list is None
-2019-04-28 10:20:28,363 Scheduler.py[line:84] INFO save succeed
-2019-04-28 10:20:28,511 Scheduler.py[line:84] INFO save succeed
-2019-04-28 10:20:28,529 Scheduler.py[line:117] INFO DownLoader: parse list is None
-2019-04-28 10:20:31,543 Scheduler.py[line:117] INFO DownLoader: parse list is None
-2019-04-28 10:20:34,726 Scheduler.py[line:117] INFO DownLoader: parse list is None
-2019-04-28 10:20:37,882 Scheduler.py[line:84] INFO save succeed
-2019-04-28 10:20:38,025 Scheduler.py[line:84] INFO save succeed
-2019-04-28 10:20:38,377 Scheduler.py[line:87] DEBUG (1062, "Duplicate entry '1730336902' for key 'PRIMARY'")
-2019-04-28 10:20:38,420 Scheduler.py[line:117] INFO DownLoader: parse list is None
-2019-04-28 10:20:41,498 Scheduler.py[line:84] INFO save succeed
-2019-04-28 10:20:41,500 Scheduler.py[line:117] INFO DownLoader: parse list is None
-2019-04-28 10:20:44,707 Scheduler.py[line:84] INFO save succeed
-2019-04-28 10:20:45,062 Scheduler.py[line:84] INFO save succeed
-2019-04-28 10:20:45,151 Scheduler.py[line:84] INFO save succeed
-2019-04-28 10:20:45,157 Scheduler.py[line:117] INFO DownLoader: parse list is None
-2019-04-28 10:20:48,243 Scheduler.py[line:84] INFO save succeed
-2019-04-28 10:20:48,318 Scheduler.py[line:84] INFO save succeed
-2019-04-28 10:20:48,321 Scheduler.py[line:117] INFO DownLoader: parse list is None
-2019-04-28 10:20:51,491 Scheduler.py[line:84] INFO save succeed
-2019-04-28 10:20:51,563 Scheduler.py[line:84] INFO save succeed
-2019-04-28 10:20:51,624 Scheduler.py[line:84] INFO save succeed
-2019-04-28 10:20:51,626 Scheduler.py[line:117] INFO DownLoader: parse list is None
-2019-04-28 10:20:54,762 Scheduler.py[line:84] INFO save succeed
-2019-04-28 10:20:54,823 Scheduler.py[line:84] INFO save succeed
-2019-04-28 10:20:54,956 Scheduler.py[line:84] INFO save succeed
-2019-04-28 10:20:54,965 Scheduler.py[line:117] INFO DownLoader: parse list is None
-2019-04-28 10:20:58,037 Scheduler.py[line:84] INFO save succeed
-2019-04-28 10:20:58,110 Scheduler.py[line:84] INFO save succeed
-2019-04-28 10:20:58,170 Scheduler.py[line:84] INFO save succeed
-2019-04-28 10:20:58,260 Scheduler.py[line:84] INFO save succeed
-2019-04-28 10:20:58,320 Scheduler.py[line:84] INFO save succeed
-2019-04-28 10:20:58,323 Scheduler.py[line:117] INFO DownLoader: parse list is None
-2019-04-28 10:21:01,523 Scheduler.py[line:84] INFO save succeed
-2019-04-28 10:21:01,694 Scheduler.py[line:87] DEBUG (1406, "Data too long for column 'college' at row 1")
-2019-04-28 10:21:01,701 Scheduler.py[line:117] INFO DownLoader: parse list is None
-2019-04-28 10:21:04,881 Scheduler.py[line:84] INFO save succeed
-2019-04-28 10:21:05,231 Scheduler.py[line:84] INFO save succeed
-2019-04-28 10:21:05,303 Scheduler.py[line:84] INFO save succeed
-2019-04-28 10:21:05,307 Scheduler.py[line:117] INFO DownLoader: parse list is None
-2019-04-28 10:21:08,584 Scheduler.py[line:84] INFO save succeed
-2019-04-28 10:21:08,662 Scheduler.py[line:84] INFO save succeed
-2019-04-28 10:21:08,664 Scheduler.py[line:117] INFO DownLoader: parse list is None
-2019-04-28 10:21:11,822 Scheduler.py[line:84] INFO save succeed
-2019-04-28 10:21:12,249 Scheduler.py[line:84] INFO save succeed
-2019-04-28 10:21:12,259 Scheduler.py[line:117] INFO DownLoader: parse list is None
+2019-05-10 17:04:39,278 Scheduler.py[line:117] INFO DownLoader: parse list is None
+2019-05-10 17:04:39,443 Scheduler.py[line:63] INFO DownLoader: can not get request from master request queue
+2019-05-10 17:04:42,289 Scheduler.py[line:117] INFO DownLoader: parse list is None
+2019-05-10 17:04:42,525 Scheduler.py[line:63] INFO DownLoader: can not get request from master request queue
+2019-05-10 17:04:45,652 Scheduler.py[line:63] INFO DownLoader: can not get request from master request queue
+2019-05-10 17:04:45,750 Scheduler.py[line:84] INFO save succeed
+2019-05-10 17:04:48,788 Scheduler.py[line:63] INFO DownLoader: can not get request from master request queue
+2019-05-10 17:04:51,887 Scheduler.py[line:63] INFO DownLoader: can not get request from master request queue
+2019-05-10 17:04:54,965 Scheduler.py[line:63] INFO DownLoader: can not get request from master request queue
+2019-05-10 17:04:59,077 Scheduler.py[line:63] INFO DownLoader: can not get request from master request queue
+2019-05-10 17:05:00,215 Scheduler.py[line:84] INFO save succeed
+2019-05-10 17:05:02,204 Scheduler.py[line:63] INFO DownLoader: can not get request from master request queue
+2019-05-10 17:05:05,287 Scheduler.py[line:63] INFO DownLoader: can not get request from master request queue
+2019-05-10 17:05:09,171 Scheduler.py[line:63] INFO DownLoader: can not get request from master request queue
+2019-05-10 17:05:12,245 Scheduler.py[line:63] INFO DownLoader: can not get request from master request queue
+2019-05-10 17:05:15,394 Scheduler.py[line:63] INFO DownLoader: can not get request from master request queue
+2019-05-10 17:05:19,101 Scheduler.py[line:63] INFO DownLoader: can not get request from master request queue
+2019-05-10 17:05:20,742 Scheduler.py[line:84] INFO save succeed
+2019-05-10 17:05:22,190 Scheduler.py[line:63] INFO DownLoader: can not get request from master request queue
+2019-05-10 17:05:25,285 Scheduler.py[line:63] INFO DownLoader: can not get request from master request queue
+2019-05-10 17:05:29,122 Scheduler.py[line:63] INFO DownLoader: can not get request from master request queue
+2019-05-10 17:05:32,192 Scheduler.py[line:63] INFO DownLoader: can not get request from master request queue
+2019-05-10 17:05:35,267 Scheduler.py[line:63] INFO DownLoader: can not get request from master request queue
+2019-05-10 17:05:39,138 Scheduler.py[line:63] INFO DownLoader: can not get request from master request queue
+2019-05-10 17:05:39,971 Scheduler.py[line:84] INFO save succeed
+2019-05-10 17:05:42,220 Scheduler.py[line:63] INFO DownLoader: can not get request from master request queue
+2019-05-10 17:05:43,509 Scheduler.py[line:84] INFO save succeed
+2019-05-10 17:05:45,288 Scheduler.py[line:63] INFO DownLoader: can not get request from master request queue
+2019-05-10 17:05:49,140 Scheduler.py[line:63] INFO DownLoader: can not get request from master request queue
+2019-05-10 17:05:51,305 Scheduler.py[line:84] INFO save succeed
+2019-05-10 17:05:52,222 Scheduler.py[line:63] INFO DownLoader: can not get request from master request queue
+2019-05-10 17:05:55,367 Scheduler.py[line:63] INFO DownLoader: can not get request from master request queue
+2019-05-10 17:05:56,328 Scheduler.py[line:84] INFO save succeed
+2019-05-10 17:05:59,140 Scheduler.py[line:63] INFO DownLoader: can not get request from master request queue
+2019-05-10 17:06:02,229 Scheduler.py[line:63] INFO DownLoader: can not get request from master request queue
+2019-05-10 17:06:05,365 Scheduler.py[line:63] INFO DownLoader: can not get request from master request queue
+2019-05-10 17:06:09,156 Scheduler.py[line:63] INFO DownLoader: can not get request from master request queue
+2019-05-10 17:06:12,225 Scheduler.py[line:63] INFO DownLoader: can not get request from master request queue
+2019-05-10 17:06:14,761 Scheduler.py[line:84] INFO save succeed
+2019-05-10 17:06:15,294 Scheduler.py[line:63] INFO DownLoader: can not get request from master request queue
+2019-05-10 17:06:19,220 Scheduler.py[line:63] INFO DownLoader: can not get request from master request queue
+2019-05-10 17:06:19,899 Scheduler.py[line:84] INFO save succeed
+2019-05-10 17:06:22,358 Scheduler.py[line:63] INFO DownLoader: can not get request from master request queue
+2019-05-10 17:06:25,347 Scheduler.py[line:84] INFO save succeed
+2019-05-10 17:06:25,427 Scheduler.py[line:63] INFO DownLoader: can not get request from master request queue
+2019-05-10 17:06:29,190 Scheduler.py[line:63] INFO DownLoader: can not get request from master request queue
+2019-05-10 17:06:30,587 Scheduler.py[line:84] INFO save succeed
+2019-05-10 17:06:32,337 Scheduler.py[line:63] INFO DownLoader: can not get request from master request queue
+2019-05-10 17:06:35,407 Scheduler.py[line:63] INFO DownLoader: can not get request from master request queue
+2019-05-10 17:06:36,318 Scheduler.py[line:84] INFO save succeed
+2019-05-10 17:06:36,410 Scheduler.py[line:84] INFO save succeed
+2019-05-10 17:06:37,317 Scheduler.py[line:84] INFO save succeed
+2019-05-10 17:06:39,198 Scheduler.py[line:63] INFO DownLoader: can not get request from master request queue
+2019-05-10 17:06:42,272 Scheduler.py[line:63] INFO DownLoader: can not get request from master request queue
+2019-05-10 17:06:45,370 Scheduler.py[line:63] INFO DownLoader: can not get request from master request queue
+2019-05-10 17:06:47,459 Scheduler.py[line:84] INFO save succeed
+2019-05-10 17:06:49,225 Scheduler.py[line:63] INFO DownLoader: can not get request from master request queue
+2019-05-10 17:06:52,292 Scheduler.py[line:63] INFO DownLoader: can not get request from master request queue
+2019-05-10 17:06:55,360 Scheduler.py[line:63] INFO DownLoader: can not get request from master request queue
+2019-05-10 17:06:59,202 Scheduler.py[line:63] INFO DownLoader: can not get request from master request queue
+2019-05-10 17:07:02,270 Scheduler.py[line:63] INFO DownLoader: can not get request from master request queue
+2019-05-10 17:07:05,340 Scheduler.py[line:63] INFO DownLoader: can not get request from master request queue
+2019-05-10 17:07:09,215 Scheduler.py[line:63] INFO DownLoader: can not get request from master request queue
+2019-05-10 17:07:12,296 Scheduler.py[line:63] INFO DownLoader: can not get request from master request queue
+2019-05-10 17:07:15,371 Scheduler.py[line:63] INFO DownLoader: can not get request from master request queue
+2019-05-10 17:07:19,218 Scheduler.py[line:63] INFO DownLoader: can not get request from master request queue
+2019-05-10 17:07:22,282 Scheduler.py[line:63] INFO DownLoader: can not get request from master request queue
+2019-05-10 17:07:25,375 Scheduler.py[line:63] INFO DownLoader: can not get request from master request queue
+2019-05-10 17:07:29,237 Scheduler.py[line:63] INFO DownLoader: can not get request from master request queue
+2019-05-10 17:07:32,315 Scheduler.py[line:63] INFO DownLoader: can not get request from master request queue
+2019-05-10 17:07:35,401 Scheduler.py[line:63] INFO DownLoader: can not get request from master request queue
+2019-05-10 17:07:39,233 Scheduler.py[line:63] INFO DownLoader: can not get request from master request queue
+2019-05-10 17:07:42,311 Scheduler.py[line:63] INFO DownLoader: can not get request from master request queue
+2019-05-10 17:07:45,383 Scheduler.py[line:63] INFO DownLoader: can not get request from master request queue
+2019-05-10 17:07:49,276 Scheduler.py[line:63] INFO DownLoader: can not get request from master request queue
+2019-05-10 17:07:52,343 Scheduler.py[line:63] INFO DownLoader: can not get request from master request queue
+2019-05-10 17:07:55,410 Scheduler.py[line:63] INFO DownLoader: can not get request from master request queue
+2019-05-10 17:07:59,263 Scheduler.py[line:63] INFO DownLoader: can not get request from master request queue
+2019-05-10 17:08:02,329 Scheduler.py[line:63] INFO DownLoader: can not get request from master request queue
+2019-05-10 17:08:05,398 Scheduler.py[line:63] INFO DownLoader: can not get request from master request queue
+2019-05-10 17:08:09,278 Scheduler.py[line:63] INFO DownLoader: can not get request from master request queue
+2019-05-10 17:08:12,355 Scheduler.py[line:63] INFO DownLoader: can not get request from master request queue
+2019-05-10 17:08:15,435 Scheduler.py[line:63] INFO DownLoader: can not get request from master request queue
+2019-05-10 17:08:19,278 Scheduler.py[line:63] INFO DownLoader: can not get request from master request queue
+2019-05-10 17:08:22,349 Scheduler.py[line:63] INFO DownLoader: can not get request from master request queue
+2019-05-10 17:08:25,421 Scheduler.py[line:63] INFO DownLoader: can not get request from master request queue
+2019-05-10 17:08:29,297 Scheduler.py[line:63] INFO DownLoader: can not get request from master request queue
+2019-05-10 17:08:32,374 Scheduler.py[line:63] INFO DownLoader: can not get request from master request queue
+2019-05-10 17:08:35,457 Scheduler.py[line:63] INFO DownLoader: can not get request from master request queue
+2019-05-10 17:08:39,304 Scheduler.py[line:63] INFO DownLoader: can not get request from master request queue
+2019-05-10 17:08:42,374 Scheduler.py[line:63] INFO DownLoader: can not get request from master request queue
+2019-05-10 17:08:45,457 Scheduler.py[line:63] INFO DownLoader: can not get request from master request queue
+2019-05-10 17:08:49,315 Scheduler.py[line:63] INFO DownLoader: can not get request from master request queue
+2019-05-10 17:08:52,398 Scheduler.py[line:63] INFO DownLoader: can not get request from master request queue
+2019-05-10 17:08:55,466 Scheduler.py[line:63] INFO DownLoader: can not get request from master request queue
+2019-05-10 17:08:59,339 Scheduler.py[line:63] INFO DownLoader: can not get request from master request queue
+2019-05-10 17:09:02,422 Scheduler.py[line:63] INFO DownLoader: can not get request from master request queue
+2019-05-10 17:09:05,494 Scheduler.py[line:63] INFO DownLoader: can not get request from master request queue
+2019-05-10 17:09:09,404 Scheduler.py[line:63] INFO DownLoader: can not get request from master request queue
+2019-05-10 17:09:11,450 Scheduler.py[line:84] INFO save succeed
+2019-05-10 17:09:12,487 Scheduler.py[line:63] INFO DownLoader: can not get request from master request queue
+2019-05-10 17:09:15,555 Scheduler.py[line:63] INFO DownLoader: can not get request from master request queue
+2019-05-10 17:09:19,388 Scheduler.py[line:63] INFO DownLoader: can not get request from master request queue
+2019-05-10 17:09:20,123 Scheduler.py[line:84] INFO save succeed
+2019-05-10 17:09:22,456 Scheduler.py[line:63] INFO DownLoader: can not get request from master request queue
+2019-05-10 17:09:22,823 Scheduler.py[line:84] INFO save succeed
+2019-05-10 17:09:25,526 Scheduler.py[line:63] INFO DownLoader: can not get request from master request queue
+2019-05-10 17:09:29,416 Scheduler.py[line:63] INFO DownLoader: can not get request from master request queue
+2019-05-10 17:09:32,481 Scheduler.py[line:63] INFO DownLoader: can not get request from master request queue
+2019-05-10 17:09:35,544 Scheduler.py[line:63] INFO DownLoader: can not get request from master request queue
+2019-05-10 17:09:38,133 Scheduler.py[line:84] INFO save succeed
+2019-05-10 17:09:39,437 Scheduler.py[line:63] INFO DownLoader: can not get request from master request queue
+2019-05-10 17:09:42,502 Scheduler.py[line:63] INFO DownLoader: can not get request from master request queue
+2019-05-10 17:09:43,065 Scheduler.py[line:84] INFO save succeed
+2019-05-10 17:09:43,871 Scheduler.py[line:84] INFO save succeed
+2019-05-10 17:09:43,938 Scheduler.py[line:84] INFO save succeed
+2019-05-10 17:09:45,586 Scheduler.py[line:63] INFO DownLoader: can not get request from master request queue
+2019-05-10 17:09:49,456 Scheduler.py[line:63] INFO DownLoader: can not get request from master request queue
+2019-05-10 17:09:52,525 Scheduler.py[line:63] INFO DownLoader: can not get request from master request queue
+2019-05-10 17:09:55,608 Scheduler.py[line:63] INFO DownLoader: can not get request from master request queue
+2019-05-10 17:09:59,456 Scheduler.py[line:63] INFO DownLoader: can not get request from master request queue
+2019-05-10 17:10:00,089 Scheduler.py[line:84] INFO save succeed
+2019-05-10 17:10:02,524 Scheduler.py[line:63] INFO DownLoader: can not get request from master request queue
+2019-05-10 17:10:05,591 Scheduler.py[line:63] INFO DownLoader: can not get request from master request queue
+2019-05-10 17:10:09,461 Scheduler.py[line:63] INFO DownLoader: can not get request from master request queue
+2019-05-10 17:10:12,533 Scheduler.py[line:63] INFO DownLoader: can not get request from master request queue
+2019-05-10 17:10:15,281 Scheduler.py[line:84] INFO save succeed
+2019-05-10 17:10:15,603 Scheduler.py[line:63] INFO DownLoader: can not get request from master request queue
+2019-05-10 17:10:19,462 Scheduler.py[line:63] INFO DownLoader: can not get request from master request queue
+2019-05-10 17:10:22,530 Scheduler.py[line:63] INFO DownLoader: can not get request from master request queue
+2019-05-10 17:10:24,014 Scheduler.py[line:84] INFO save succeed
+2019-05-10 17:10:25,599 Scheduler.py[line:63] INFO DownLoader: can not get request from master request queue
+2019-05-10 17:10:29,508 Scheduler.py[line:63] INFO DownLoader: can not get request from master request queue
+2019-05-10 17:10:32,581 Scheduler.py[line:63] INFO DownLoader: can not get request from master request queue
+2019-05-10 17:10:35,649 Scheduler.py[line:63] INFO DownLoader: can not get request from master request queue
+2019-05-10 17:10:37,985 Scheduler.py[line:84] INFO save succeed
+2019-05-10 17:10:39,548 Scheduler.py[line:63] INFO DownLoader: can not get request from master request queue
+2019-05-10 17:10:42,621 Scheduler.py[line:63] INFO DownLoader: can not get request from master request queue
+2019-05-10 17:10:45,372 Scheduler.py[line:84] INFO save succeed
+2019-05-10 17:10:45,689 Scheduler.py[line:63] INFO DownLoader: can not get request from master request queue
+2019-05-10 17:10:49,506 Scheduler.py[line:63] INFO DownLoader: can not get request from master request queue
+2019-05-10 17:10:52,574 Scheduler.py[line:63] INFO DownLoader: can not get request from master request queue
+2019-05-10 17:10:54,884 Scheduler.py[line:84] INFO save succeed
+2019-05-10 17:10:55,642 Scheduler.py[line:63] INFO DownLoader: can not get request from master request queue
+2019-05-10 17:10:57,842 Scheduler.py[line:84] INFO save succeed
+2019-05-10 17:10:59,503 Scheduler.py[line:63] INFO DownLoader: can not get request from master request queue
+2019-05-10 17:11:00,516 Scheduler.py[line:84] INFO save succeed
+2019-05-10 17:11:02,571 Scheduler.py[line:63] INFO DownLoader: can not get request from master request queue
+2019-05-10 17:11:03,964 Scheduler.py[line:84] INFO save succeed
+2019-05-10 17:11:05,640 Scheduler.py[line:63] INFO DownLoader: can not get request from master request queue
+2019-05-10 17:11:09,505 Scheduler.py[line:63] INFO DownLoader: can not get request from master request queue
+2019-05-10 17:11:12,571 Scheduler.py[line:63] INFO DownLoader: can not get request from master request queue
+2019-05-10 17:11:15,636 Scheduler.py[line:63] INFO DownLoader: can not get request from master request queue
+2019-05-10 17:11:16,007 Scheduler.py[line:84] INFO save succeed
+2019-05-10 17:11:19,515 Scheduler.py[line:63] INFO DownLoader: can not get request from master request queue
+2019-05-10 17:11:22,585 Scheduler.py[line:63] INFO DownLoader: can not get request from master request queue
+2019-05-10 17:11:25,653 Scheduler.py[line:63] INFO DownLoader: can not get request from master request queue
+2019-05-10 17:11:29,529 Scheduler.py[line:63] INFO DownLoader: can not get request from master request queue
+2019-05-10 17:11:30,871 Scheduler.py[line:84] INFO save succeed
+2019-05-10 17:11:32,594 Scheduler.py[line:63] INFO DownLoader: can not get request from master request queue
+2019-05-10 17:11:35,661 Scheduler.py[line:63] INFO DownLoader: can not get request from master request queue
+2019-05-10 17:11:38,130 Scheduler.py[line:84] INFO save succeed
+2019-05-10 17:11:39,564 Scheduler.py[line:63] INFO DownLoader: can not get request from master request queue
+2019-05-10 17:11:42,632 Scheduler.py[line:63] INFO DownLoader: can not get request from master request queue
+2019-05-10 17:11:45,027 Scheduler.py[line:84] INFO save succeed
+2019-05-10 17:11:45,699 Scheduler.py[line:63] INFO DownLoader: can not get request from master request queue
+2019-05-10 17:11:49,550 Scheduler.py[line:63] INFO DownLoader: can not get request from master request queue
+2019-05-10 17:11:52,614 Scheduler.py[line:63] INFO DownLoader: can not get request from master request queue
+2019-05-10 17:11:55,681 Scheduler.py[line:63] INFO DownLoader: can not get request from master request queue
+2019-05-10 17:11:59,560 Scheduler.py[line:63] INFO DownLoader: can not get request from master request queue
+2019-05-10 17:11:59,628 Scheduler.py[line:84] INFO save succeed
+2019-05-10 17:12:02,623 Scheduler.py[line:63] INFO DownLoader: can not get request from master request queue
+2019-05-10 17:12:05,086 Scheduler.py[line:84] INFO save succeed
+2019-05-10 17:12:05,699 Scheduler.py[line:63] INFO DownLoader: can not get request from master request queue
+2019-05-10 17:12:09,567 Scheduler.py[line:63] INFO DownLoader: can not get request from master request queue
+2019-05-10 17:12:12,639 Scheduler.py[line:63] INFO DownLoader: can not get request from master request queue
+2019-05-10 17:12:15,700 Scheduler.py[line:63] INFO DownLoader: can not get request from master request queue
+2019-05-10 17:12:19,589 Scheduler.py[line:63] INFO DownLoader: can not get request from master request queue
+2019-05-10 17:12:22,668 Scheduler.py[line:63] INFO DownLoader: can not get request from master request queue
+2019-05-10 17:12:22,732 Scheduler.py[line:84] INFO save succeed
+2019-05-10 17:12:25,747 Scheduler.py[line:63] INFO DownLoader: can not get request from master request queue
+2019-05-10 17:12:29,597 Scheduler.py[line:63] INFO DownLoader: can not get request from master request queue
+2019-05-10 17:12:32,663 Scheduler.py[line:63] INFO DownLoader: can not get request from master request queue
+2019-05-10 17:12:35,733 Scheduler.py[line:63] INFO DownLoader: can not get request from master request queue
+2019-05-10 17:12:39,634 Scheduler.py[line:63] INFO DownLoader: can not get request from master request queue
+2019-05-10 17:12:39,705 Scheduler.py[line:84] INFO save succeed
+2019-05-10 17:12:42,124 Scheduler.py[line:84] INFO save succeed
+2019-05-10 17:12:42,699 Scheduler.py[line:63] INFO DownLoader: can not get request from master request queue
+2019-05-10 17:12:45,759 Scheduler.py[line:63] INFO DownLoader: can not get request from master request queue
+2019-05-10 17:12:46,780 Scheduler.py[line:84] INFO save succeed
+2019-05-10 17:12:49,614 Scheduler.py[line:63] INFO DownLoader: can not get request from master request queue
+2019-05-10 17:12:52,687 Scheduler.py[line:63] INFO DownLoader: can not get request from master request queue
+2019-05-10 17:12:54,126 Scheduler.py[line:84] INFO save succeed
+2019-05-10 17:12:55,744 Scheduler.py[line:63] INFO DownLoader: can not get request from master request queue
+2019-05-10 17:12:59,616 Scheduler.py[line:63] INFO DownLoader: can not get request from master request queue
+2019-05-10 17:13:02,683 Scheduler.py[line:63] INFO DownLoader: can not get request from master request queue
+2019-05-10 17:13:05,745 Scheduler.py[line:63] INFO DownLoader: can not get request from master request queue
+2019-05-10 17:13:08,437 Scheduler.py[line:84] INFO save succeed
+2019-05-10 17:13:09,648 Scheduler.py[line:63] INFO DownLoader: can not get request from master request queue
+2019-05-10 17:13:12,711 Scheduler.py[line:63] INFO DownLoader: can not get request from master request queue
+2019-05-10 17:13:15,770 Scheduler.py[line:63] INFO DownLoader: can not get request from master request queue
+2019-05-10 17:13:18,500 Scheduler.py[line:84] INFO save succeed
+2019-05-10 17:13:19,688 Scheduler.py[line:63] INFO DownLoader: can not get request from master request queue
+2019-05-10 17:13:22,750 Scheduler.py[line:63] INFO DownLoader: can not get request from master request queue
+2019-05-10 17:13:24,617 Scheduler.py[line:84] INFO save succeed
+2019-05-10 17:13:25,804 Scheduler.py[line:63] INFO DownLoader: can not get request from master request queue
+2019-05-10 17:13:29,709 Scheduler.py[line:63] INFO DownLoader: can not get request from master request queue
+2019-05-10 17:13:30,379 Scheduler.py[line:84] INFO save succeed
+2019-05-10 17:13:32,772 Scheduler.py[line:63] INFO DownLoader: can not get request from master request queue
+2019-05-10 17:13:35,834 Scheduler.py[line:63] INFO DownLoader: can not get request from master request queue
+2019-05-10 17:13:37,479 Scheduler.py[line:84] INFO save succeed
+2019-05-10 17:13:39,698 Scheduler.py[line:63] INFO DownLoader: can not get request from master request queue
+2019-05-10 17:13:41,042 Scheduler.py[line:84] INFO save succeed
+2019-05-10 17:13:42,758 Scheduler.py[line:63] INFO DownLoader: can not get request from master request queue
+2019-05-10 17:13:45,819 Scheduler.py[line:63] INFO DownLoader: can not get request from master request queue
+2019-05-10 17:13:49,713 Scheduler.py[line:63] INFO DownLoader: can not get request from master request queue
+2019-05-10 17:13:52,773 Scheduler.py[line:63] INFO DownLoader: can not get request from master request queue
+2019-05-10 17:13:55,826 Scheduler.py[line:63] INFO DownLoader: can not get request from master request queue
+2019-05-10 17:13:58,463 Scheduler.py[line:84] INFO save succeed
+2019-05-10 17:13:59,746 Scheduler.py[line:63] INFO DownLoader: can not get request from master request queue
+2019-05-10 17:14:02,803 Scheduler.py[line:63] INFO DownLoader: can not get request from master request queue
+2019-05-10 17:14:05,864 Scheduler.py[line:63] INFO DownLoader: can not get request from master request queue
+2019-05-10 17:14:09,745 Scheduler.py[line:63] INFO DownLoader: can not get request from master request queue
+2019-05-10 17:14:12,137 Scheduler.py[line:84] INFO save succeed
+2019-05-10 17:14:12,809 Scheduler.py[line:63] INFO DownLoader: can not get request from master request queue
+2019-05-10 17:14:15,864 Scheduler.py[line:63] INFO DownLoader: can not get request from master request queue
+2019-05-10 17:14:16,069 Scheduler.py[line:84] INFO save succeed
+2019-05-10 17:14:19,766 Scheduler.py[line:63] INFO DownLoader: can not get request from master request queue
+2019-05-10 17:14:22,825 Scheduler.py[line:63] INFO DownLoader: can not get request from master request queue
+2019-05-10 17:14:25,522 Scheduler.py[line:84] INFO save succeed
+2019-05-10 17:14:25,878 Scheduler.py[line:63] INFO DownLoader: can not get request from master request queue
+2019-05-10 17:14:29,770 Scheduler.py[line:63] INFO DownLoader: can not get request from master request queue
+2019-05-10 17:14:32,829 Scheduler.py[line:84] INFO save succeed
+2019-05-10 17:14:32,837 Scheduler.py[line:63] INFO DownLoader: can not get request from master request queue
+2019-05-10 17:14:35,864 Scheduler.py[line:84] INFO save succeed
+2019-05-10 17:14:35,905 Scheduler.py[line:63] INFO DownLoader: can not get request from master request queue
+2019-05-10 17:14:39,794 Scheduler.py[line:63] INFO DownLoader: can not get request from master request queue
+2019-05-10 17:14:42,853 Scheduler.py[line:63] INFO DownLoader: can not get request from master request queue
+2019-05-10 17:14:45,920 Scheduler.py[line:63] INFO DownLoader: can not get request from master request queue
+2019-05-10 17:14:48,658 Scheduler.py[line:84] INFO save succeed
+2019-05-10 17:14:49,826 Scheduler.py[line:63] INFO DownLoader: can not get request from master request queue
+2019-05-10 17:14:52,894 Scheduler.py[line:63] INFO DownLoader: can not get request from master request queue
+2019-05-10 17:14:55,955 Scheduler.py[line:63] INFO DownLoader: can not get request from master request queue
+2019-05-10 17:14:59,803 Scheduler.py[line:63] INFO DownLoader: can not get request from master request queue
+2019-05-10 17:15:02,865 Scheduler.py[line:63] INFO DownLoader: can not get request from master request queue
+2019-05-10 17:15:03,752 Scheduler.py[line:84] INFO save succeed
+2019-05-10 17:15:05,926 Scheduler.py[line:63] INFO DownLoader: can not get request from master request queue
+2019-05-10 17:15:09,843 Scheduler.py[line:63] INFO DownLoader: can not get request from master request queue
+2019-05-10 17:15:10,744 Scheduler.py[line:84] INFO save succeed
+2019-05-10 17:15:12,905 Scheduler.py[line:63] INFO DownLoader: can not get request from master request queue
+2019-05-10 17:15:15,969 Scheduler.py[line:63] INFO DownLoader: can not get request from master request queue
+2019-05-10 17:15:19,831 Scheduler.py[line:63] INFO DownLoader: can not get request from master request queue
+2019-05-10 17:15:22,905 Scheduler.py[line:63] INFO DownLoader: can not get request from master request queue
+2019-05-10 17:15:25,141 Scheduler.py[line:84] INFO save succeed
+2019-05-10 17:15:25,964 Scheduler.py[line:63] INFO DownLoader: can not get request from master request queue
+2019-05-10 17:15:29,859 Scheduler.py[line:63] INFO DownLoader: can not get request from master request queue
+2019-05-10 17:15:32,918 Scheduler.py[line:63] INFO DownLoader: can not get request from master request queue
+2019-05-10 17:15:35,978 Scheduler.py[line:63] INFO DownLoader: can not get request from master request queue
+2019-05-10 17:15:37,562 Scheduler.py[line:84] INFO save succeed
+2019-05-10 17:15:39,894 Scheduler.py[line:63] INFO DownLoader: can not get request from master request queue
+2019-05-10 17:15:40,573 Scheduler.py[line:84] INFO save succeed
+2019-05-10 17:15:42,954 Scheduler.py[line:63] INFO DownLoader: can not get request from master request queue
+2019-05-10 17:15:43,676 Scheduler.py[line:84] INFO save succeed
+2019-05-10 17:15:46,016 Scheduler.py[line:63] INFO DownLoader: can not get request from master request queue
+2019-05-10 17:15:49,896 Scheduler.py[line:63] INFO DownLoader: can not get request from master request queue
+2019-05-10 17:15:52,953 Scheduler.py[line:63] INFO DownLoader: can not get request from master request queue
+2019-05-10 17:15:55,473 Scheduler.py[line:84] INFO save succeed
+2019-05-10 17:15:56,016 Scheduler.py[line:63] INFO DownLoader: can not get request from master request queue
+2019-05-10 17:15:59,895 Scheduler.py[line:63] INFO DownLoader: can not get request from master request queue
+2019-05-10 17:16:02,956 Scheduler.py[line:63] INFO DownLoader: can not get request from master request queue
+2019-05-10 17:16:06,018 Scheduler.py[line:63] INFO DownLoader: can not get request from master request queue
+2019-05-10 17:16:06,334 Scheduler.py[line:84] INFO save succeed
+2019-05-10 17:16:09,902 Scheduler.py[line:63] INFO DownLoader: can not get request from master request queue
+2019-05-10 17:16:12,963 Scheduler.py[line:63] INFO DownLoader: can not get request from master request queue
+2019-05-10 17:16:16,026 Scheduler.py[line:63] INFO DownLoader: can not get request from master request queue
+2019-05-10 17:16:18,684 Scheduler.py[line:84] INFO save succeed
+2019-05-10 17:16:19,934 Scheduler.py[line:63] INFO DownLoader: can not get request from master request queue
+2019-05-10 17:16:22,998 Scheduler.py[line:63] INFO DownLoader: can not get request from master request queue
+2019-05-10 17:16:26,060 Scheduler.py[line:63] INFO DownLoader: can not get request from master request queue
+2019-05-10 17:16:29,920 Scheduler.py[line:63] INFO DownLoader: can not get request from master request queue
+2019-05-10 17:16:32,989 Scheduler.py[line:63] INFO DownLoader: can not get request from master request queue
+2019-05-10 17:16:36,050 Scheduler.py[line:63] INFO DownLoader: can not get request from master request queue
+2019-05-10 17:16:38,415 Scheduler.py[line:84] INFO save succeed
+2019-05-10 17:16:39,947 Scheduler.py[line:63] INFO DownLoader: can not get request from master request queue
+2019-05-10 17:16:43,005 Scheduler.py[line:63] INFO DownLoader: can not get request from master request queue
+2019-05-10 17:16:46,074 Scheduler.py[line:63] INFO DownLoader: can not get request from master request queue
+2019-05-10 17:16:49,954 Scheduler.py[line:63] INFO DownLoader: can not get request from master request queue
+2019-05-10 17:16:51,987 Scheduler.py[line:84] INFO save succeed
+2019-05-10 17:16:53,019 Scheduler.py[line:63] INFO DownLoader: can not get request from master request queue
+2019-05-10 17:16:56,080 Scheduler.py[line:63] INFO DownLoader: can not get request from master request queue
+2019-05-10 17:16:59,978 Scheduler.py[line:63] INFO DownLoader: can not get request from master request queue
+2019-05-10 17:17:01,059 Scheduler.py[line:84] INFO save succeed
+2019-05-10 17:17:03,041 Scheduler.py[line:63] INFO DownLoader: can not get request from master request queue
+2019-05-10 17:17:06,103 Scheduler.py[line:63] INFO DownLoader: can not get request from master request queue
+2019-05-10 17:17:10,025 Scheduler.py[line:63] INFO DownLoader: can not get request from master request queue
+2019-05-10 17:17:13,086 Scheduler.py[line:63] INFO DownLoader: can not get request from master request queue
+2019-05-10 17:17:15,067 Scheduler.py[line:84] INFO save succeed
+2019-05-10 17:17:16,149 Scheduler.py[line:63] INFO DownLoader: can not get request from master request queue
+2019-05-10 17:40:59,509 Scheduler.py[line:117] INFO DownLoader: parse list is None
+2019-05-10 17:40:59,662 Scheduler.py[line:63] INFO DownLoader: can not get request from master request queue
+2019-05-10 17:41:29,469 Scheduler.py[line:117] INFO DownLoader: parse list is None
+2019-05-10 17:41:29,652 Scheduler.py[line:63] INFO DownLoader: can not get request from master request queue
+2019-05-10 17:41:32,472 Scheduler.py[line:117] INFO DownLoader: parse list is None
+2019-05-10 17:41:32,761 Scheduler.py[line:63] INFO DownLoader: can not get request from master request queue
+2019-05-10 17:53:51,548 Scheduler.py[line:117] INFO DownLoader: parse list is None
+2019-05-10 17:53:51,739 Scheduler.py[line:63] INFO DownLoader: can not get request from master request queue
+2019-05-10 17:54:04,783 Scheduler.py[line:117] INFO DownLoader: parse list is None
+2019-05-10 17:54:04,938 Scheduler.py[line:63] INFO DownLoader: can not get request from master request queue
+2019-05-10 17:54:11,739 Scheduler.py[line:117] INFO DownLoader: parse list is None
+2019-05-10 17:54:11,912 Scheduler.py[line:63] INFO DownLoader: can not get request from master request queue
+2019-05-10 17:54:14,741 Scheduler.py[line:117] INFO DownLoader: parse list is None
+2019-05-10 17:54:15,006 Scheduler.py[line:63] INFO DownLoader: can not get request from master request queue
+2019-05-10 17:58:06,968 Scheduler.py[line:117] INFO DownLoader: parse list is None
+2019-05-10 17:58:07,195 Scheduler.py[line:63] INFO DownLoader: can not get request from master request queue
+2019-05-10 17:58:09,970 Scheduler.py[line:117] INFO DownLoader: parse list is None
+2019-05-10 17:58:10,293 Scheduler.py[line:63] INFO DownLoader: can not get request from master request queue
+2019-05-10 17:58:12,971 Scheduler.py[line:117] INFO DownLoader: parse list is None
+2019-05-10 17:58:14,332 Scheduler.py[line:63] INFO DownLoader: can not get request from master request queue
+2019-05-10 17:58:15,974 Scheduler.py[line:117] INFO DownLoader: parse list is None
+2019-05-10 17:58:17,425 Scheduler.py[line:63] INFO DownLoader: can not get request from master request queue
+2019-05-10 17:58:19,005 Scheduler.py[line:117] INFO DownLoader: parse list is None
+2019-05-10 17:58:20,531 Scheduler.py[line:63] INFO DownLoader: can not get request from master request queue
+2019-05-10 17:58:22,009 Scheduler.py[line:117] INFO DownLoader: parse list is None
+2019-05-10 17:58:24,352 Scheduler.py[line:63] INFO DownLoader: can not get request from master request queue
+2019-05-10 17:58:25,011 Scheduler.py[line:117] INFO DownLoader: parse list is None
+2019-05-10 17:58:27,451 Scheduler.py[line:63] INFO DownLoader: can not get request from master request queue
+2019-05-10 17:58:28,013 Scheduler.py[line:117] INFO DownLoader: parse list is None
+2019-05-10 17:58:30,571 Scheduler.py[line:63] INFO DownLoader: can not get request from master request queue
+2019-05-10 17:58:31,015 Scheduler.py[line:117] INFO DownLoader: parse list is None
+2019-05-10 17:58:34,015 Scheduler.py[line:117] INFO DownLoader: parse list is None
+2019-05-10 17:58:34,359 Scheduler.py[line:63] INFO DownLoader: can not get request from master request queue
+2019-05-10 17:58:37,016 Scheduler.py[line:117] INFO DownLoader: parse list is None
+2019-05-10 17:58:37,491 Scheduler.py[line:63] INFO DownLoader: can not get request from master request queue
+2019-05-10 17:58:40,018 Scheduler.py[line:117] INFO DownLoader: parse list is None
+2019-05-10 17:58:40,612 Scheduler.py[line:63] INFO DownLoader: can not get request from master request queue
+2019-05-10 17:58:43,020 Scheduler.py[line:117] INFO DownLoader: parse list is None
+2019-05-10 17:58:44,351 Scheduler.py[line:63] INFO DownLoader: can not get request from master request queue
+2019-05-10 17:58:46,021 Scheduler.py[line:117] INFO DownLoader: parse list is None
+2019-05-10 17:58:47,449 Scheduler.py[line:63] INFO DownLoader: can not get request from master request queue
+2019-05-10 17:58:49,022 Scheduler.py[line:117] INFO DownLoader: parse list is None
+2019-05-10 17:58:50,571 Scheduler.py[line:63] INFO DownLoader: can not get request from master request queue
+2019-05-10 17:58:52,025 Scheduler.py[line:117] INFO DownLoader: parse list is None
+2019-05-10 17:58:53,658 Scheduler.py[line:63] INFO DownLoader: can not get request from master request queue
+2019-05-10 17:58:55,027 Scheduler.py[line:117] INFO DownLoader: parse list is None
+2019-05-10 17:58:56,731 Scheduler.py[line:63] INFO DownLoader: can not get request from master request queue
+2019-05-10 17:58:58,027 Scheduler.py[line:117] INFO DownLoader: parse list is None
+2019-05-10 17:58:59,858 Scheduler.py[line:63] INFO DownLoader: can not get request from master request queue
+2019-05-10 17:59:01,029 Scheduler.py[line:117] INFO DownLoader: parse list is None
+2019-05-10 17:59:02,932 Scheduler.py[line:63] INFO DownLoader: can not get request from master request queue
+2019-05-10 17:59:04,031 Scheduler.py[line:117] INFO DownLoader: parse list is None
+2019-05-10 17:59:06,060 Scheduler.py[line:63] INFO DownLoader: can not get request from master request queue
+2019-05-10 17:59:07,031 Scheduler.py[line:117] INFO DownLoader: parse list is None
+2019-05-10 17:59:09,172 Scheduler.py[line:63] INFO DownLoader: can not get request from master request queue
+2019-05-10 17:59:10,033 Scheduler.py[line:117] INFO DownLoader: parse list is None
+2019-05-10 17:59:12,270 Scheduler.py[line:63] INFO DownLoader: can not get request from master request queue
+2019-05-10 17:59:13,035 Scheduler.py[line:117] INFO DownLoader: parse list is None
+2019-05-10 17:59:15,372 Scheduler.py[line:63] INFO DownLoader: can not get request from master request queue
+2019-05-10 17:59:16,036 Scheduler.py[line:117] INFO DownLoader: parse list is None
+2019-05-10 17:59:18,490 Scheduler.py[line:63] INFO DownLoader: can not get request from master request queue
+2019-05-10 17:59:19,037 Scheduler.py[line:117] INFO DownLoader: parse list is None
+2019-05-10 17:59:21,611 Scheduler.py[line:63] INFO DownLoader: can not get request from master request queue
+2019-05-10 17:59:22,038 Scheduler.py[line:117] INFO DownLoader: parse list is None
+2019-05-10 17:59:24,692 Scheduler.py[line:63] INFO DownLoader: can not get request from master request queue
+2019-05-10 17:59:25,040 Scheduler.py[line:117] INFO DownLoader: parse list is None
+2019-05-10 18:00:51,291 Scheduler.py[line:117] INFO DownLoader: parse list is None
+2019-05-10 18:00:51,469 Scheduler.py[line:63] INFO DownLoader: can not get request from master request queue
+2019-05-10 18:00:54,292 Scheduler.py[line:117] INFO DownLoader: parse list is None
+2019-05-10 18:00:54,556 Scheduler.py[line:63] INFO DownLoader: can not get request from master request queue
+2019-05-10 18:01:34,225 Scheduler.py[line:117] INFO DownLoader: parse list is None
+2019-05-10 18:01:34,706 Scheduler.py[line:63] INFO DownLoader: can not get request from master request queue
+2019-05-10 18:02:48,184 Scheduler.py[line:117] INFO DownLoader: parse list is None
+2019-05-10 18:02:48,503 Scheduler.py[line:63] INFO DownLoader: can not get request from master request queue
+2019-05-10 18:02:51,189 Scheduler.py[line:117] INFO DownLoader: parse list is None
+2019-05-10 18:02:51,610 Scheduler.py[line:63] INFO DownLoader: can not get request from master request queue
+2019-05-10 18:02:54,192 Scheduler.py[line:117] INFO DownLoader: parse list is None
+2019-05-10 18:02:54,910 Scheduler.py[line:63] INFO DownLoader: can not get request from master request queue
+2019-05-10 18:03:01,993 Scheduler.py[line:117] INFO DownLoader: parse list is None
+2019-05-10 18:03:02,155 Scheduler.py[line:63] INFO DownLoader: can not get request from master request queue
+2019-05-10 18:03:05,009 Scheduler.py[line:117] INFO DownLoader: parse list is None
+2019-05-10 18:03:05,253 Scheduler.py[line:63] INFO DownLoader: can not get request from master request queue

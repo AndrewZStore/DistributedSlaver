@@ -1,0 +1,11 @@
+2019-05-02 15:28:13,940 Scheduler.py[line:117] INFO DownLoader: parse list is None
+2019-05-02 15:41:24,441 Scheduler.py[line:117] INFO DownLoader: parse list is None
+2019-05-02 15:41:24,675 Scheduler.py[line:63] INFO DownLoader: can not get request from master request queue
+2019-05-02 15:41:27,443 Scheduler.py[line:117] INFO DownLoader: parse list is None
+2019-05-02 15:41:27,771 Scheduler.py[line:63] INFO DownLoader: can not get request from master request queue
+2019-05-02 15:41:30,889 Scheduler.py[line:63] INFO DownLoader: can not get request from master request queue
+2019-05-02 15:41:38,161 Scheduler.py[line:84] INFO save succeed
+2019-05-02 15:41:52,361 Scheduler.py[line:87] DEBUG (1406, "Data too long for column 'college' at row 1")
+2019-05-02 15:47:34,454 Scheduler.py[line:117] INFO DownLoader: parse list is None
+2019-05-02 15:47:37,456 Scheduler.py[line:117] INFO DownLoader: parse list is None
+2019-05-02 15:47:40,556 Scheduler.py[line:84] INFO save succeed
