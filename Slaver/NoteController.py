@@ -1,7 +1,7 @@
 import os
 import multiprocessing
 import time
-from Slaver.run import run
+from Slaver.run.run import run
 import redis
 
 server = redis.StrictRedis(host='127.0.0.1', port=6379)
